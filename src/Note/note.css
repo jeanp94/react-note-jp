@@ -1,0 +1,10 @@
+.Note{
+    background: #fff;
+    padding: 20px;
+    color: #000;
+    margin-top: 10px;
+}
+.Note:hover{
+    box-shadow: 8px 8px 8px rgba(0,0,0,.5);
+    border: 1px solid black;
+}
